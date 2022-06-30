@@ -1,2 +1,2 @@
-# Data_preparation_(milestone_1)
+# Analysing_Twitter_Tweets_(milestone_1 & 2 & 3)
 For more information, visit: "MachineLearninginPhysics-TextAnalysis" on the "Organizations" part, according to my profile. You can also see my contribution there. The repository gathers tools and files needed for the extraction of textual data from Twitter, building corpora and representing documents in various representations. Also, some basic transformations (related to models such as TF-IDF, LSI, LDA, etc.) would be implemented.
